@@ -25,7 +25,8 @@ If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. Mac, Linux, Win]
- - NodeGUI version
+ - NodeGui version
+ - React NodeGui Version
  - OS Version
 
 **Additional context**
