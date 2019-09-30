@@ -76,6 +76,6 @@ Before creating enhancement suggestions, please check the roadmap as you might f
 * Opinionated changes: Things like styleguide, linting, addition of external dependencies (including test framework) etc unless extrememly critical will not be considered at this time. Again, this will change in future once we reach a basic stable release. All these will be fixed by the core team and then we can have a discussion on what needs to be changed. Currently the project is in its experimental stage and hence nothing is really fixed. 
 
 
-#### Enhancements taht will be considered
+#### Enhancements that will be considered
 
 Anything that is not opinionated, helpful for the end user.
