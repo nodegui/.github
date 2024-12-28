@@ -11,12 +11,6 @@ The following is a set of guidelines for contributing to NodeGui and its package
 
 This project and everyone participating in it is governed by the [NodeGui Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [admin@nodegui.org](mailto:admin@nodegui.org).
 
-## I don't want to read this whole thing I just have a question!!!
-
-> Please spend a moment to read this before asking questions. You'll get faster results by using the resources below and you will also save time of other contributors.
-
-We have a Spectrum community chat at https://spectrum.chat/nodegui. This is used as the official community chat platform. Use this platform to ask questions. The contributors and other community members would help you out here when they find time. 
-
 
 ## What should I know before I get started?
 
@@ -25,8 +19,6 @@ We have a Spectrum community chat at https://spectrum.chat/nodegui. This is used
 NodeGui is an open source project &mdash; it's made up of multiple repositories (https://github.com/nodegui).
 
 NodeGui is designed on a plugin based architecture. This means that while it provides core features through the main package at https://github.com/nodegui/nodegui, many of its features and extensions will be implemented as plugins. For example, while the nodegui core package contains many useful widgets and APIs, newer and heavier features like webview will be implemented as a plugin.
-
-Also, NodeGui will act as a base package for varous rendering targets like React. The official renderer for React is React NodeGui (https://github.com/nodegui/react-nodegui)
 
 
 #### Plugin Conventions
@@ -73,7 +65,7 @@ Before creating enhancement suggestions, please check the roadmap as you might f
 
 * Any major architectural changes to the codebase: If the enhancement you want requires major architectural changes, there is a good chance that it will not be considered at this point of time.  This is because the project is at its infancy and the goal currently is to provide more features and usable widgets to the end users of this library. This will change in future if/when the project is adopted more or if need arises.
 
-* Opinionated changes: Things like styleguide, linting, addition of external dependencies (including test framework) etc unless extrememly critical will not be considered at this time. Again, this will change in future once we reach a basic stable release. All these will be fixed by the core team and then we can have a discussion on what needs to be changed. Currently the project is in its experimental stage and hence nothing is really fixed. 
+* Opinionated changes: Things like styleguide, linting, addition of external dependencies (including test framework) etc unless extrememly critical will not be considered at this time. Again, this will change in future once we reach a basic stable release. All these will be fixed by the core team and then we can have a discussion on what needs to be changed. Currently the project is in its experimental stage and hence nothing is really fixed.
 
 
 #### Enhancements that will be considered
